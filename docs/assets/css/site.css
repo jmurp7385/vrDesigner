@@ -3,7 +3,16 @@
   text-align: center;
   margin: 0 auto;
   padding: 20px;
-  
+ 
 }
 
+body {
+  background-color: #212121;
+  color: #ddd;
+}
 
+footer {
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+}
