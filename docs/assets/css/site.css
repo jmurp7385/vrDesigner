@@ -1,18 +1,35 @@
 
-.title {
+.center {
   text-align: center;
   margin: 0 auto;
-  padding: 20px;
- 
 }
+
+.title {
+  padding: 20px;
+}
+
+.border {
+  border-top: outset;
+  width: 100%;
+}
+
+.text-left {
+  text-align: justify;
+}
+
 
 body {
   background-color: #212121;
   color: #ddd;
+  width: 80%;
+}
+
+img {
+  margin-left: -10px;
 }
 
 footer {
-  text-align: center;
-  margin: 0 auto;
   padding: 20px;
 }
+
+
