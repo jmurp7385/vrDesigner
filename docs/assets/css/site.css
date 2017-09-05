@@ -7,6 +7,16 @@
 
 .title {
   padding: 20px;
+  color: #ddd;
+}
+
+a:link, a:visited  {
+  color: #ddd; 
+}
+
+a:hover {
+  color: #fff;
+  text-decoration: none;
 }
 
 .border {
