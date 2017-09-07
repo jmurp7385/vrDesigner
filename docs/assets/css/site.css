@@ -5,6 +5,12 @@
   padding: 5px;
 }
 
+.hvcenter {
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
 .title {
   padding: 20px;
   color: #ddd;
