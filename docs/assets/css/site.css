@@ -41,6 +41,11 @@ body {
   width: 80%;
 }
 
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
 footer {
   padding: 20px;
 }
