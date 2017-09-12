@@ -41,6 +41,11 @@ body {
   width: 80%;
 }
 
+nav {
+  /*text-align: right;*/
+  /*display: inline-flex;*/
+}
+
 ul {
   display: table;
   margin: 0 auto;
