@@ -17,7 +17,7 @@
 }
 
 a:link, a:visited  {
-  color: #ddd; 
+  color: #ddd;
 }
 
 a:hover {
@@ -50,6 +50,16 @@ a:hover {
   text-indent: 50px;
 }
 
+.bio-img {
+  display: block;
+  /*max-width: 300px;*/
+  /*max-height: 200px;*/
+  border-radius: 75px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
 nav {
   margin-bottom: -10px;
   margin-left: 15px;
@@ -70,5 +80,3 @@ ul {
 footer {
   padding: 20px;
 }
-
-
