@@ -9,7 +9,7 @@ public class AliceManager : MonoBehaviour {
 		singleton = this;
 	}	
 	public Alice net;
-	public string host = "104.131.11.131";
+	public string host = "10.236.19.70";
 	public string port = "5000";
 	public string name;
 
